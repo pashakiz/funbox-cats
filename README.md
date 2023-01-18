@@ -1,7 +1,6 @@
 # funbox-cats
 
-# demo:
-https://pashakiz.github.io/funbox-cats/dist/
+<a href="https://pashakiz.github.io/funbox-cats/dist/" title="demo">demo</a>
 
 # npm
 
